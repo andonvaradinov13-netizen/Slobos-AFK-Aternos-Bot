@@ -6,11 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": andon3576.aternos.me
+    "ip":"andon3576.aternos.me"
     
-    "port": 58025 
-
-
+    "port": 58025
     "version": "",
     "try-creative": false
   },
